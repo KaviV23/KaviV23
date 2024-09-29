@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Kavi
 🌱 I’m in my 3rd year of University studying Software Engineering.
 
-👀 Technology has always been a passion of mine since I was a kid. It started out with me flashing custom ROMs on my Android phone and installing different operating systems on my moms old HP. Programming has been a newfound interest of mine. Currently, I'm learning React development with Next.js in my free time. I also recently got into messing around with home servers.
+👀 Technology has always been a passion of mine since I was a kid. It started out with me flashing custom ROMs on my Android phone and installing different operating systems on my moms old HP. Programming has been a newfound interest of mine and I've been loving it ever since. Currently, I'm learning React development with Next.js in my free time. I also recently got into hosting my own home server.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kaviraj-vijayanthiran-a4aa9b240).
 
