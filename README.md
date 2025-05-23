@@ -14,12 +14,6 @@
 
 <!--- ![Tools](https://raw.githubusercontent.com/KaviV23/KaviV23/refs/heads/main/images/Tools.drawio.png) --->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviv23&" alt="kaviv23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaviv23&show_icons=true&locale=en" alt="kaviv23" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviv23&show_icons=true&locale=en&layout=compact" alt="kaviv23" /></p>
-
 <!--- - ⚡ Fun fact: ... --->
 
 <!---
